@@ -3,7 +3,7 @@ from discord.ext import commands
 from discord import SlashCommand,application_command
 from discord.ext.commands import has_permissions
 
-guildlist = [1004735784403878019,771577360159735818]
+guildlist = ["Guild id here"]
 
 class AdministrationC(commands.Cog):
     def __init__(self,client) -> None:
