@@ -7,3 +7,5 @@ with this bot you can make a basic administration of your discord server.
 #Development settings
 
 TOKEN="YOUR TOKEN HERE"
+
+- you need to install the requirements.txt file too with the pip command.
